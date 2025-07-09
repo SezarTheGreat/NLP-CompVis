@@ -1,1 +1,1 @@
-# NLP-Comp-Vis
+# NLP-CompVis
