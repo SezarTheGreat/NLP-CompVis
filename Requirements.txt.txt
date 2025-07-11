@@ -1,0 +1,8 @@
+OPENCV DOWNLOAD
+
+code in cmd
+
+python -m venv myenv
+myenv/Scripts/activate
+pip install numpy
+pip install opencv-python
